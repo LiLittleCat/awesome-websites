@@ -1,4 +1,4 @@
-# Awesome Websites
+# Awesome Websites (Under construction, contributions are welcome)
 
 <!-- [![Awesome](image/awesome.svg)](https://awesome.re) [![ZH](image/chinese.svg)](README_zh.md) -->
 
