@@ -37,6 +37,7 @@ A curated list of awesome websites.
 
 - [Skill Icons](https://skillicons.dev/) - Showcase the languages, frameworks, and tools you use on your GitHub or resumé with ease!
 - [Simple Icons](https://simpleicons.org/) - Free SVG icons for popular brands.
+- [flaticon](https://www.flaticon.com/) - Access 9.8M+ vector icons & stickers.
 
 - https://github.com/rzashakeri/beautify-github-profile
 - https://github.com/antonkomarev/github-profile-views-counter
