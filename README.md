@@ -26,6 +26,7 @@ A curated list of awesome websites.
 ## Funny
 
 - https://github.com/1c7/chinese-independent-developer
+- [iambored.site](https://iambored.site/) - An interactive web platform designed to help users break out of boredom by teleporting them to a random, curated website.
 
 ### GitHub Profile README
 
