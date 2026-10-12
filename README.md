@@ -19,6 +19,10 @@ A curated list of awesome websites.
 
 ## Tools
 
+### Audio Tools
+
+- [QuietTake Noise Remover](https://noiseremover.site/) - Free browser-local RNNoise speech noise reduction with original/cleaned playback and WAV export. Files must be 50 MB or smaller and five minutes or shorter; no account or audio upload required.
+
 ### Chrome Extensions
 
 - [Simple Outliner](https://chrome.google.com/webstore/detail/simple-outliner-%E6%99%BA%E8%83%BD%E7%BD%91%E9%A1%B5%E5%A4%A7%E7%BA%B2/ppdjhggfcaenclmimmdigbcglfoklgaf) - Displays a table of contents for every web page, making it easier to read/navigate long articles, documentations and online books.
