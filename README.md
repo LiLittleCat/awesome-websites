@@ -25,6 +25,7 @@ A curated list of awesome websites.
 
 ## Reference
 
+- [NEON DUO Two-photo Checklist](https://a2oliteneon.xyz/guides/photo-guide) - Public reference for preparing separate adult portraits, framing, file limits and role/permission checks for a two-person dance-video concept; real AI generation and purchases are not open. Operator-affiliated, AI-assisted suggestion.
 - [Ajun Industry](https://ajun-industry.packscena.com/) - Chinese-language industry-chain reference library with illustrated explainers and company relationships.
 - [SubAtlas](https://subatlas.packscena.com/) - Subscription-tool offer catalog with comparisons, help guides and provider-specific access conditions.
 
