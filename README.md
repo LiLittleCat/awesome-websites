@@ -22,6 +22,7 @@ A curated list of awesome websites.
 - [PackScena](https://packscena.com/) - AI product-photo backgrounds and lifestyle scenes; the current trial requires invitation, sign-in and an allowance.
 - [LookScene](https://lookscene.packscena.com/) - AI hairstyle, outfit and scene previews; the current trial requires invitation, sign-in and credits.
 - [DishVivid](https://dishvivid.com/) - Food-photo editor with local manual lighting, color and crop adjustments; optional AI edits require sign-in and an available allowance.
+- [Paper Texture](https://paper-texture.com/paper-texture-overlay/) - Free guest browser editor for layering six AI-generated paper surfaces over an image; the surfaces are licensed for finished designs, not CC0 or standalone redistribution. Operator-affiliated, AI-assisted suggestion.
 
 ## Reference
 
