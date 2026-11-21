@@ -19,6 +19,8 @@ A curated list of awesome websites.
 
 ## Tools
 
+- [PixelArtHive](https://pixelarthive.com/) - Free image-to-pixel-art conversion and pixel art upscaling, processed locally in the browser.
+
 ### Chrome Extensions
 
 - [Simple Outliner](https://chrome.google.com/webstore/detail/simple-outliner-%E6%99%BA%E8%83%BD%E7%BD%91%E9%A1%B5%E5%A4%A7%E7%BA%B2/ppdjhggfcaenclmimmdigbcglfoklgaf) - Displays a table of contents for every web page, making it easier to read/navigate long articles, documentations and online books.
